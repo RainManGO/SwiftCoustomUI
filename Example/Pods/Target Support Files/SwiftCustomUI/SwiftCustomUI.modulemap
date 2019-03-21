@@ -1,0 +1,6 @@
+framework module SwiftCustomUI {
+  umbrella header "SwiftCustomUI-umbrella.h"
+
+  export *
+  module * { export * }
+}

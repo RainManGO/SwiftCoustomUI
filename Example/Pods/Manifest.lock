@@ -1,0 +1,18 @@
+PODS:
+  - SwiftCustomUI (0.1.0):
+    - SwiftCustomUI/CricleProgressView (= 0.1.0)
+  - SwiftCustomUI/CricleProgressView (0.1.0)
+
+DEPENDENCIES:
+  - SwiftCustomUI (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftCustomUI:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftCustomUI: 53d095c0b603790592823fc9f0369723cdadd202
+
+PODFILE CHECKSUM: 6893759d91194e31840d9394d8986894546190fa
+
+COCOAPODS: 1.6.0.beta.1

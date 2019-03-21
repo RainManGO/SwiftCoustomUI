@@ -1,0 +1,28 @@
+{
+  "name": "SwiftCustomUI",
+  "version": "0.1.0",
+  "summary": "SwiftCustomUI 自定义UI组件",
+  "description": "封装之前开发用到的UI组件，记录回顾使用。",
+  "homepage": "https://github.com/776210576@qq.com/SwiftCustomUI",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ZY": "776210576@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/776210576@qq.com/SwiftCustomUI.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "swift_version": "4.2",
+  "subspecs": [
+    {
+      "name": "CricleProgressView",
+      "source_files": "SwiftCustomUI/Classes/CricleProgressView"
+    }
+  ]
+}
