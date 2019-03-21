@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SwiftCustomUI_Example' do
+  pod 'SwiftCustomUI', :path => '../'
+
+  target 'SwiftCustomUI_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
